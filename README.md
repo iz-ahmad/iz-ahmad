@@ -12,8 +12,8 @@
 
 <br>
 
-- A Full-stack Web Developer (Specialised in Laravel and React)
-- Currently working as a Software Engineer at Xgenious. (Dhaka, Bangladesh)
+- A Full-stack Web Developer (Laravel, React and Vue)
+- Working as a Software Engineer at FIGLAB.
 - Learning more everyday.
 - Some of My PRs in Laravel:
 - - [#53538](https://github.com/laravel/framework/pull/53538) ([11.x] Fix: Improve Request Port Extraction Handling in ServeCommand.php to Prevent Artisan Command Failures: Merged)
@@ -35,10 +35,12 @@
 
   ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS%20-%2314354C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/TailwindCSS%20-%2314354C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%2314354C.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![ReactJS](https://img.shields.io/badge/ReactJS%20-%2314354C.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![React](https://img.shields.io/badge/ReactJS%20-%2314354C.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![Vue](https://img.shields.io/badge/VueJS%20-%2314354C.svg?style=for-the-badge&logo=vue&logoColor=white)
+  ![Intertia](https://img.shields.io/badge/Intertia%20-%2314354C.svg?style=for-the-badge&logo=Intertia&logoColor=white)
 
 <br>
 
@@ -62,28 +64,19 @@
 </p>
 
 <br>
-<br>
 
 ---
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-<br>
-
-<div align="center">
-<a href="https://github.com/ahmad-cit22/">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmad-cit22&theme=algolia" width="800"/>
-</a>
-</div>
-
-<br>
-<br>
+## <b> Github Stats </b>
+![Contribution Overview](https://raw.githubusercontent.com/iz-ahmad/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Used Languages](https://raw.githubusercontent.com/iz-ahmad/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iz-ahmad&theme=ocean_dark)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iz-ahmad&theme=ocean_dark)
 
 ---
 
-<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/ahmad-cit22/ahmad-cit22/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -96,14 +89,6 @@
 <li>
 <a href="https://www.linkedin.com/in/nafis-abdullah" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  nafis-abdullah-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/nafis_cit22" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  nafis_cit22-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
