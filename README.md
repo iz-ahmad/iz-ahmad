@@ -72,7 +72,9 @@
 ![Contribution Overview](https://raw.githubusercontent.com/iz-ahmad/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![Used Languages](https://raw.githubusercontent.com/iz-ahmad/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iz-ahmad&theme=ocean_dark)
+<!--
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iz-ahmad&theme=ocean_dark)
+-->
 
 ---
 
