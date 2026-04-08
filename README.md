@@ -21,7 +21,7 @@
   - [#57487](https://github.com/laravel/framework/pull/57487) ([12.x] Fix security vulnerability in previousPath() method, preventing from returning external URLs: Nt Merged)
   - [#748](https://github.com/laravel/boost/pull/748) (fix the incorrect return type for retryUntil() method in queue job guidelines: Merged)
   - [#749](https://github.com/laravel/boost/pull/749) (Fix incomplete model discovery in GuidelineAssist class: Nt Merged, feature removed)
-  - [#79](https://github.com/me-shaon/laravel-request-analytics/pull/79) (package contribution: me-shaon/laravel-request-analytics, Merged)
+  - [#79](https://github.com/me-shaon/laravel-request-analytics/pull/79), [#80](https://github.com/me-shaon/laravel-request-analytics/pull/80), [#81](https://github.com/me-shaon/laravel-request-analytics/pull/81) (package contribution: me-shaon/laravel-request-analytics, Merged)
 
 <br><br>
 
