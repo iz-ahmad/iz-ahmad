@@ -19,9 +19,10 @@
   - [#56445](https://github.com/laravel/framework/pull/56445) ([Laravel 12.x] Enhancement: the beforeCommit method will now work even if using the ShouldQueueAfterCommit contract: Merged)
   - [#56371](https://github.com/laravel/framework/pull/56371) ([Laravel 12.x] Fix: Prevent saving of model instances created via withDefault() without valid foreign keys set: the related feature is itself drroped out now)
   - [#57487](https://github.com/laravel/framework/pull/57487) ([Laravel 12.x] Fix security vulnerability in previousPath() method, preventing from returning external URLs: Nt Merged)
-  - [#11150](https://github.com/laravel/docs/pull/11150) (Laravel [13.x] fix: update retryUntil() return type from DateTime to DateTimeInterface: Merged)
+  - [#11150](https://github.com/laravel/docs/pull/11150) ([Laravel 13.x] fix: update retryUntil() return type from DateTime to DateTimeInterface: Merged)
   - [#748](https://github.com/laravel/boost/pull/748) (Laravel Boost: fix the incorrect return type for retryUntil() method in queue job guidelines: Merged)
   - [#749](https://github.com/laravel/boost/pull/749) (Laravel Boost: Fix incomplete model discovery in GuidelineAssist class: Nt Merged, feature deprecated)
+  - [#792](https://github.com/laravel/boost/pull/792) (Laravel Boost: refactoring, Merged)
   - [#79](https://github.com/me-shaon/laravel-request-analytics/pull/79), [#80](https://github.com/me-shaon/laravel-request-analytics/pull/80), [#81](https://github.com/me-shaon/laravel-request-analytics/pull/81) (Package contribution: **me-shaon/laravel-request-analytics**, Merged)
 
 <br><br>
