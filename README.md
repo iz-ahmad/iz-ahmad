@@ -1,117 +1,76 @@
-<h1 align="center"><b>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br> <br> Itz Nafis Ahmad </b></h1>
+<h1 align="center">
+<b>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </b>
+<b> Itz Nafis Ahmad </b>
+</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-stack+Web+Developer,;Software+Engineer+at+FIGLAB,;Laravel+Core+Contributor,;Love+to+learn+new+stuffs..<3"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FFFF&size=25&center=true&vCenter=true&width=700&height=100&lines=Full-Stack+Web+Developer;Software+Engineer+at+FIGLAB;Laravel+Core+Contributor;Open+Source+Contributor;Passionate+About+Building+Quality+Software" />
 </p>
 
-<br>
+## About Me
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+* Software Engineer at **FIGLAB**
+* Continuously learning and exploring new technologies
+* Passionate about clean architecture, software craftsmanship, and developer experience
+* Primarily working with **PHP**, **Laravel**, **React** and **Vue**
+* Contributing to **open-source projects** in free time, particularly within the Laravel ecosystem
 
-<picture> <img align="right" src="https://github.com/ahmad-cit22/ahmad-cit22/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+### Some of My Contributions in Laravel Core and other ecosystem projects:
 
-<br>
-
-- Software Engineer at FIGLAB.
-- Learning more everyday.
-- Some of My **Open Source Contributions/PRs** in **Laravel** and other projects:
-- - [#53538](https://github.com/laravel/framework/pull/53538) ([Laravel 11.x] Fix: Improve Request Port Extraction Handling in ServeCommand.php to Prevent Artisan Command Failures: Merged)
-  - [#56445](https://github.com/laravel/framework/pull/56445) ([Laravel 12.x] Enhancement: the beforeCommit method will now work even if using the ShouldQueueAfterCommit contract: Merged)
-  - [#56371](https://github.com/laravel/framework/pull/56371) ([Laravel 12.x] Fix: Prevent saving of model instances created via withDefault() without valid foreign keys set: the related feature is itself drroped out now)
-  - [#57487](https://github.com/laravel/framework/pull/57487) ([Laravel 12.x] Fix security vulnerability in previousPath() method, preventing from returning external URLs: Nt Merged)
-  - [#11150](https://github.com/laravel/docs/pull/11150) ([Laravel 13.x] fix: update retryUntil() return type from DateTime to DateTimeInterface: Merged)
-  - [#748](https://github.com/laravel/boost/pull/748) (Laravel Boost: fix the incorrect return type for retryUntil() method in queue job guidelines: Merged)
-  - [#749](https://github.com/laravel/boost/pull/749) (Laravel Boost: Fix incomplete model discovery in GuidelineAssist class: Nt Merged, feature deprecated)
-  - [#792](https://github.com/laravel/boost/pull/792) (Laravel Boost: refactoring, Merged)
-  - [#79](https://github.com/me-shaon/laravel-request-analytics/pull/79), [#80](https://github.com/me-shaon/laravel-request-analytics/pull/80), [#81](https://github.com/me-shaon/laravel-request-analytics/pull/81) (Package contribution: **me-shaon/laravel-request-analytics**, Merged)
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+- [#53538](https://github.com/laravel/framework/pull/53538) ([Laravel 11.x] Fix: Improve Request Port Extraction Handling in ServeCommand.php to Prevent Artisan Command Failures: Merged)
+- [#56445](https://github.com/laravel/framework/pull/56445) ([Laravel 12.x] Enhancement: the beforeCommit method will now work even if using the ShouldQueueAfterCommit contract: Merged)
+- [#56371](https://github.com/laravel/framework/pull/56371) ([Laravel 12.x] Fix: Prevent saving of model instances created via withDefault() without valid foreign keys set: the related feature is itself drroped out now)
+- [#57487](https://github.com/laravel/framework/pull/57487) ([Laravel 12.x] Fix security vulnerability in previousPath() method, preventing from returning external URLs: Nt Merged)
+- [#11150](https://github.com/laravel/docs/pull/11150) ([Laravel 13.x] fix: update retryUntil() return type from DateTime to DateTimeInterface: Merged)
+- [#748](https://github.com/laravel/boost/pull/748) (Laravel Boost: fix the incorrect return type for retryUntil() method in queue job guidelines: Merged)
+- [#749](https://github.com/laravel/boost/pull/749) (Laravel Boost: Fix incomplete model discovery in GuidelineAssist class: Nt Merged, feature deprecated) , [#792](https://github.com/laravel/boost/pull/792) (Merged)
+- [#79](https://github.com/me-shaon/laravel-request-analytics/pull/79), [#80](https://github.com/me-shaon/laravel-request-analytics/pull/80), [#81](https://github.com/me-shaon/laravel-request-analytics/pull/81) (Package contribution: **me-shaon/laravel-request-analytics**, Merged)
 
 <br>
 
-<p align="center">
-    
-- **Front-End Development**:
+### GitHub Stats
 
-  ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/TailwindCSS%20-%2314354C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%2314354C.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/ReactJS%20-%2314354C.svg?style=for-the-badge&logo=react&logoColor=white)
-  ![Vue](https://img.shields.io/badge/VueJS%20-%2314354C.svg?style=for-the-badge&logo=vue&logoColor=white)
-  ![Intertia](https://img.shields.io/badge/Intertia%20-%2314354C.svg?style=for-the-badge&logo=Intertia&logoColor=white)
-
-<br>
-
-- **Back-End Development**:
-
-  ![PHP](https://img.shields.io/badge/PHP%20-%2314354C.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel%20-%2314354C.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL%20-%2314354C.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%2314354C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase%20-%2314354C.svg?style=for-the-badge&logo=firebase&logoColor=white)
-
-<br>
-
-- **Softwares and Tools**:
-
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman%20-f96f00.svg?style=for-the-badge&logo=postman&logoColor=white)
-
-
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/iz-ahmad/github-stats/master/generated/overview.svg#gh-dark-mode-only"
+        alt="Contribution Overview"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/iz-ahmad/github-stats/master/generated/languages.svg#gh-dark-mode-only"
+        alt="Used Languages"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img
+        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iz-ahmad&theme=ocean_dark"
+        alt="Most Commit Language"
+      />
+    </td>
+  </tr>
+</table>
 
 <br>
 
----
+### Portfolio
+
+Explore more about my skills, works, and experiences: [https://iz-ahmad.vercel.app](https://iz-ahmad.vercel.app)
 
 <br>
 
-## <b> Github Stats </b>
-![Contribution Overview](https://raw.githubusercontent.com/iz-ahmad/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Used Languages](https://raw.githubusercontent.com/iz-ahmad/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iz-ahmad&theme=ocean_dark)
-<!--
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iz-ahmad&theme=ocean_dark)
--->
+## Connect With Me
 
----
-
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/ahmad-cit22/ahmad-cit22/raw/main/assets/mdImages/handshake.gif" width ="80">
-
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
 <a href="https://www.linkedin.com/in/nafis-abdullah" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  nafis-abdullah-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+  <img src="https://img.shields.io/badge/LinkedIn-nafis--abdullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</li>
 
-<br>
-
-<li>
-<a href="mailto:n.ahmad.web.cit22@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  n.ahmad.web.cit22-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+ <a href="mailto:n.ahmad.web.cit22@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-n.ahmad.web.cit22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</li>
-	
-</ul>
-</div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-
-[Nafis Abdullah](https://github.com/ahmad-cit22)
+---
