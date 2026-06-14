@@ -1,6 +1,5 @@
 <h1 align="center">
-<b>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </b>
-<b> Itz Nafis Ahmad </b>
+<b> It's Nafis Ahmad </b>
 </h1>
 
 <p align="center">
