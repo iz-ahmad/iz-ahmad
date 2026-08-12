@@ -69,7 +69,7 @@ Explore my writings on Medium: [https://medium.com/@iz-ahmad](https://medium.com
 <a href="https://www.linkedin.com/in/nafis-abdullah" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-nafis--abdullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+<br>
  <a href="mailto:n.ahmad.web.cit22@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-n.ahmad.web.cit22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
