@@ -56,9 +56,10 @@
 
 <br>
 
-### Portfolio
+### Know More
 
-Explore more about my skills, works, and experiences: [https://iz-ahmad.vercel.app](https://iz-ahmad.vercel.app)
+Explore more about my skills, works, and experiences: [Portfolio](https://iz-ahmad.vercel.app)
+Explore my writings on Medium: [https://medium.com/@iz-ahmad](https://medium.com/@iz-ahmad)
 
 <br>
 
