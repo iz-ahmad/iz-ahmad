@@ -8,11 +8,12 @@
 
 ## About Me
 
-* Software Engineer at **FIGLAB**
+* SWE @ **FIGLAB**
 * Continuously learning and exploring new technologies
-* Passionate about clean architecture, software craftsmanship, and developer experience
+* Passionate about clean architecture, software craftsmanship, "good" UX and DX
 * Primarily working with **PHP**, **Laravel**, **React** and **Vue**
 * Contributing to **open-source projects** in free time, particularly within the Laravel ecosystem
+* Maximizing development output with **Agentic workflows**.
 
 ### Some of My Contributions in Laravel Core and other ecosystem projects:
 
