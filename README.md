@@ -59,6 +59,7 @@
 ### Know More
 
 Explore more about my skills, works, and experiences: [Portfolio](https://iz-ahmad.vercel.app)
+<br>
 Explore my writings on Medium: [https://medium.com/@iz-ahmad](https://medium.com/@iz-ahmad)
 
 <br>
