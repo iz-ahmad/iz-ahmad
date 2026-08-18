@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FFFF&size=25&center=true&vCenter=true&width=700&height=100&lines=Full-Stack+Web+Developer;Software+Engineer+at+FIGLAB;Laravel+Core+Contributor;Open+Source+Contributor;Passionate+About+Building+Quality+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FFFF&size=25&center=true&vCenter=true&width=700&height=100&lines=Full-Stack+Web+Developer;Software+Engineer+at+FIGLAB;Laravel+Core+Contributor;Open+Source+Contributor;Building+Software+that+Solves" />
 </p>
 
 ## About Me
@@ -26,9 +26,9 @@
 - [#11150](https://github.com/laravel/docs/pull/11150) ([Laravel 13.x] Fix: update retryUntil() return type from DateTime to DateTimeInterface: **Merged**)
 - [#562](https://github.com/laravel/installer/pull/562) ([Laravel Installer] Use the selected package manager in the ci:check script in composer.json: **Merged**)
 - [#563](https://github.com/laravel/installer/pull/563) ([Laravel Installer] Configure correct package manager before running starter kit hooks: Nt Merged)
-- [#748](https://github.com/laravel/boost/pull/748) (Laravel Boost: Fix the incorrect return type for retryUntil() method in queue job guidelines: **Merged**)
-- [#749](https://github.com/laravel/boost/pull/749) (Laravel Boost: Fix incomplete model discovery in GuidelineAssist class: Nt Merged, feature deprecated)
-- [#792](https://github.com/laravel/boost/pull/792) (Laravel Boost, **Merged**)
+- [#748](https://github.com/laravel/boost/pull/748) ([Laravel Boost] Fix the incorrect return type for retryUntil() method in queue job guidelines: **Merged**)
+- [#749](https://github.com/laravel/boost/pull/749) ([Laravel Boost] Fix incomplete model discovery in GuidelineAssist class: Nt Merged, feature deprecated)
+- [#792](https://github.com/laravel/boost/pull/792) ([Laravel Boost] **Merged**)
 - [#16](https://github.com/laravel/chisel/pull/16) ([Laravel Chisel] Pass --ignore-scripts flag when installing with pnpm: open)
 - [#79](https://github.com/me-shaon/laravel-request-analytics/pull/79), [#80](https://github.com/me-shaon/laravel-request-analytics/pull/80), [#81](https://github.com/me-shaon/laravel-request-analytics/pull/81) (Package contribution: **me-shaon/laravel-request-analytics**, **Merged**)
 
