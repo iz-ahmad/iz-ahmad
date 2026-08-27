@@ -30,7 +30,7 @@
 - [#749](https://github.com/laravel/boost/pull/749) ([Laravel Boost] Fix incomplete model discovery in GuidelineAssist class: Nt Merged, feature deprecated)
 - [#792](https://github.com/laravel/boost/pull/792) ([Laravel Boost] **Merged**)
 - [#16](https://github.com/laravel/chisel/pull/16) ([Laravel Chisel] Pass --ignore-scripts flag when installing with pnpm: open)
-- [#79](https://github.com/me-shaon/laravel-request-analytics/pull/79), [#80](https://github.com/me-shaon/laravel-request-analytics/pull/80), [#81](https://github.com/me-shaon/laravel-request-analytics/pull/81) (Package contribution: **me-shaon/laravel-request-analytics**, **Merged**)
+- [#92](https://github.com/me-shaon/laravel-request-analytics/pull/92), [#79](https://github.com/me-shaon/laravel-request-analytics/pull/79), [#80](https://github.com/me-shaon/laravel-request-analytics/pull/80), [#81](https://github.com/me-shaon/laravel-request-analytics/pull/81) (Package contribution: **me-shaon/laravel-request-analytics**, **Merged**)
 
 <br>
 
